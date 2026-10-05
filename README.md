@@ -1,4 +1,4 @@
-# BloxMizer 1.0.0 for Windows
+# BloxMizer 1.2.0 for Windows
 
 BloxMizer sets supported Roblox Player graphics preferences before Roblox starts. It also backs up the client files it changes and can restore those backups.
 
