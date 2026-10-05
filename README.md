@@ -16,8 +16,8 @@ Website: [adhrit-bloxmizer.onrender.com](https://adhrit-bloxmizer.onrender.com/)
 
 ## Install
 
-- **Setup installer:** [BloxMizer-1.0.0-Windows-Setup-x64.exe](https://github.com/1234-adhrit/ADHRIT--BloxMizer-v1.0.0-/releases/download/v1.0.0/BloxMizer-1.0.0-Windows-Setup-x64.exe)
-- **Portable app:** [BloxMizer-1.0.0-Windows-x64.exe](https://github.com/1234-adhrit/ADHRIT--BloxMizer-v1.0.0-/releases/download/v1.0.0/BloxMizer-1.0.0-Windows-x64.exe)
+- **Setup installer:** [BloxMizer-1.0.0-Windows-Setup-x64.exe](https://github.com/1234-adhrit/ADHRIT--BloxMizer-/releases/download/v1.2.0/BloxMizer-1.2.0-Windows-Setup-x64.exe)
+- **Portable app:** [BloxMizer-1.0.0-Windows-x64.exe](https://github.com/1234-adhrit/ADHRIT--BloxMizer-/releases/download/v1.2.0/BloxMizer-1.2.0-Windows-x64.exe)
 
 ## Use BloxMizer
 
@@ -59,3 +59,4 @@ Roblox may ignore local flags or change how they work. BloxMizer cannot force Ro
 
 - [robbehy](https://www.youtube.com/@robbehy) for inspiration for the sky collection and its screenshots.
 - VoidStrap for reference and inspiration on Roblox optimization settings.
+- [**Fleasion**](https://github.com/fleasion/Fleasion) for reference on local Roblox asset filtering. BloxMizer's proxy implementation is original and does not include Fleasion source code.
