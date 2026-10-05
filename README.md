@@ -16,8 +16,8 @@ Website: [adhrit-bloxmizer.onrender.com](https://adhrit-bloxmizer.onrender.com/)
 
 ## Install
 
-- **Setup installer:** [BloxMizer-1.0.0-Windows-Setup-x64.exe](https://github.com/1234-adhrit/ADHRIT--BloxMizer-/releases/download/v1.2.0/BloxMizer-1.2.0-Windows-Setup-x64.exe)
-- **Portable app:** [BloxMizer-1.0.0-Windows-x64.exe](https://github.com/1234-adhrit/ADHRIT--BloxMizer-/releases/download/v1.2.0/BloxMizer-1.2.0-Windows-x64.exe)
+- **Setup installer:** [BloxMizer-1.2.0-Windows-Setup-x64.exe(Latest)](https://github.com/1234-adhrit/ADHRIT--BloxMizer-/releases/download/v1.2.0/BloxMizer-1.2.0-Windows-Setup-x64.exe)
+- **Portable app:** [BloxMizer-1.2.0-Windows-x64.exe(Latest)](https://github.com/1234-adhrit/ADHRIT--BloxMizer-/releases/download/v1.2.0/BloxMizer-1.2.0-Windows-x64.exe)
 
 ## Use BloxMizer
 
